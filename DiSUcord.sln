@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiSUcord.Server", "DiSUcord.Server\DiSUcord.Server.csproj", "{D3AED0FB-DF6D-451E-90A8-8902F1CC243C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiSUcord.UI", "DiSUcord.UI\DiSUcord.UI.csproj", "{8AFB389F-89A3-4CE9-B011-825EC93AD272}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D3AED0FB-DF6D-451E-90A8-8902F1CC243C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3AED0FB-DF6D-451E-90A8-8902F1CC243C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3AED0FB-DF6D-451E-90A8-8902F1CC243C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AFB389F-89A3-4CE9-B011-825EC93AD272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AFB389F-89A3-4CE9-B011-825EC93AD272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AFB389F-89A3-4CE9-B011-825EC93AD272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AFB389F-89A3-4CE9-B011-825EC93AD272}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
